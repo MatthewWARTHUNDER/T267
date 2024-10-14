@@ -1,9 +1,7 @@
 # T267
-sim
+Atividades realizados com o professor andré durante o percurso das aulas dele
 
-# teste
-
-# comandos git
+# comandos para o "git bash"
 
 - git clone http://
 
@@ -17,13 +15,12 @@ sim
 
 - git push origin <nomeDaBranch>, ex: git push origin main
 
-# comandos cli
+# comandos cli (command line interface)
 
 - cd<nomeDoCaminho>/ cd../ ls , ex: cd Desktop/
 
 
 # JavaScript
-
-- 
+ 
 
  
