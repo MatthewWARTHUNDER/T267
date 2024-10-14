@@ -1,5 +1,5 @@
 # T267
-Atividades realizados com o professor andré durante o percurso das aulas com ele
+Atividades realizados com o professor andré durante o percurso das aulas com ele (Adeus andré você será perdido mas nunca esquecido 😭💀✊)
 
 # comandos para o "git bash"
 
